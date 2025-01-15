@@ -26,7 +26,7 @@ Ensure you have Python 3.x and `pip` installed.
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/flask-video-api.git
+   git clone https://github.com/Rog3rinS/flask-video-api.git
    cd flask-video-api
 
 2. Create and activate a virtual enviroment:
